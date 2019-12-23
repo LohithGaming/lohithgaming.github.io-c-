@@ -1,8 +1,10 @@
+#include "message.h"
 #include <iostream>
 using namespace std;
 
 int main()
 {  
-  cout<<"Hello, this is Lohith Gaming";
+  message m;
+  m.printMessage();
   return 0;
 }
