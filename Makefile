@@ -1,3 +1,3 @@
 all:
-	g++ main.cpp -o main
-	./main
+	g++ main.cpp -o makefile
+	./makefile
